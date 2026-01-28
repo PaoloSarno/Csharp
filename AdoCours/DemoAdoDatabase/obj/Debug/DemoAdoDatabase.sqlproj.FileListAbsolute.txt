@@ -1,0 +1,10 @@
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\bin\Debug\DemoAdoDatabase.dacpac
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\DemoAdoDatabase.sqlproj.AssemblyReference.cache
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\DemoAdoDatabase.dll
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\DemoAdoDatabase.pdb
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\bin\Debug\DemoAdoDatabase.dll
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\bin\Debug\DemoAdoDatabase.pdb
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\Model.xml
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\refactor.xml
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\postdeploy.sql
+C:\Users\p.sarno\Documents\C#\cSharpGit\AdoCours\DemoAdoDatabase\obj\Debug\predeploy.sql

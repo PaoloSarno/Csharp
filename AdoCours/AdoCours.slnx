@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DemoAdo/DemoAdo.csproj" />
+  <Project Path="DemoAdoDatabase/DemoAdoDatabase.sqlproj" Id="b38a80e6-e2a2-4a42-b3e8-07b06279f0e5">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

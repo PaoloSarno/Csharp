@@ -1,0 +1,31 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Todo] (Table)
+       [dbo].[User] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Todo] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Todo] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Todo] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       [dbo].[FK_Todo_User] (Clé étrangère)
+       [dbo].[CK_User_Email] (Contrainte de validation)
+       [dbo].[TR_Todo_UpdateAt] (Déclencheur)
+       [dbo].[TR_Todo_IsActive] (Déclencheur)
+       [dbo].[TR_User_UpdateAt] (Déclencheur)
+       [dbo].[TR_User_IsActive] (Déclencheur)
+       [dbo].[V_User] (Vue)
+       [dbo].[SP_Todo_AddTodo] (Procédure)
+       [dbo].[SP_User_AddUser] (Procédure)
+
+** Actions de support
